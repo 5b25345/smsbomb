@@ -35,7 +35,7 @@ def banner():
     {Fore.CYAN}╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 
     {Fore.WHITE}┌────────────────────────────────────────────────────────┐
-    {Fore.LIGHTYELLOW_EX}│  {Fore.WHITE}Developer: {Fore.LIGHTRED_EX}BERITAN       {Fore.WHITE}Instagram: {Fore.LIGHTCYAN_EX}@tingirifistik  {Fore.LIGHTYELLOW_EX}│
+    {Fore.LIGHTYELLOW_EX}│  {Fore.WHITE}Developer: {Fore.LIGHTRED_EX}BERITAN       {Fore.WHITE}Instagram: {Fore.LIGHTCYAN_EX}@5beritan  {Fore.LIGHTYELLOW_EX}│
     {Fore.WHITE}└────────────────────────────────────────────────────────┘
     """)
 
