@@ -13,6 +13,5 @@ python3 smsbomb.py
 Bu araç sadece eğitim ve test amaçlıdır. Kullanıcıların yaptığı işlemlerden geliştirici (BERITAN) sorumlu değildir.
 👤 Geliştirici
 • Yazar: BERITAN
-• Instagram: @tingirifistik
 • Versiyon: 3.1 Pro (2026 Update)
 Küçük bir tavsiye: Eğer projeni GitHub'a yükleyeceksen, klasörün içine requirements.txt adında bir dosya açıp içine sadece şu iki satırı yazman yeterli olacaktır:
